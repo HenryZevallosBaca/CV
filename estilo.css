@@ -1,0 +1,24 @@
+#foto{
+    border:1px solid #000000;
+    padding:5px;
+    border-radius: 20px;
+}
+#principal{
+    border: solid 1px;
+    padding: 10px;
+    width: 60%;
+    margin: 0 auto;
+    background: #f3fffe;
+}
+legend{
+    border: solid 2px #4677db;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 20px;
+    background: #A0c0ff;
+}
+body{
+    background: url(fondo.jpg);
+    background-size: 75%;
+    background-attachment: fixed;
+}
